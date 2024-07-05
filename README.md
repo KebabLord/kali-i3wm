@@ -1,8 +1,8 @@
 # Custom i3wm build
-![Desktop](https://u.teknik.io/G2DdL.png)
-![Preview of terminal colors](https://u.teknik.io/EZJ2e.png)
-![Preview of terminal colors 2](https://u.teknik.io/YRw4J.png)
-![Kali Tools Dmenu](https://u.teknik.io/FGhrh.png)
+![Desktop](https://a.fsdn.com/con/app/proj/kali-i3wm/screenshots/1.png/max/max/1)
+![Preview of terminal colors](https://a.fsdn.com/con/app/proj/kali-i3wm/screenshots/2.png/max/max/1)
+![Preview of terminal colors 2](https://a.fsdn.com/con/app/proj/kali-i3wm/screenshots/3.png/max/max/1)
+![Kali Tools Dmenu](https://a.fsdn.com/con/app/proj/kali-i3wm/screenshots/4.png/max/max/1)
 
 # Features
 - Dmenu import of kali-menu
